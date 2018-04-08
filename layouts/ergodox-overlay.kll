@@ -1,0 +1,71 @@
+Name = ergodoxoverlay;
+Version = 0.1;
+Author = "Merten";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2016-11-20;
+
+# Left Hand Overlay (right to left)
+# Top Row
+U"Esc" : U"Delete";
+U"Equals" : U"Esc";
+
+# Top-Middle Row
+U"Function1"    : U"Backspace";
+U"Backslash"    : U"Tab";
+
+# Middle Row
+U"Tab"          : U"Left Shift";
+
+# Bottom-Middle Row
+U"Function2"    : U"Enter";
+U"Left Shift"   : U"LCtrl";
+
+#Bottom Row
+U"Function5" : U"Function1";
+U"Function4" : None;
+U"Function3" : None;
+U"Backtick"  : None;
+U"LGui"      : U"LAlt";
+
+# Top Thumb Cluster
+U"LAlt"     : U"Home";
+U"LCtrl"    : U"LGui";
+
+# Bottom Thumb Cluster
+U"Home"         : U"End";
+U"End"          : None; # Bottom Right
+U"Delete"       : U"Enter";
+U"Backspace"    : U"Space";
+
+
+# Right Hand Overlay (left to right)
+# Top Row
+U"Function6"    : U"Delete";
+U"Minus"        : U"Lock2"; #NumLock
+
+# Top-Middle Row
+U"Left Brace"   : U"Backspace";
+U"Right Brace"  : U"Left Brace"; #Slash
+
+# Middle Row
+U"Quote"        : U"Right Shift";
+
+# Bottom Row
+U"Left"     : U"Function1";
+U"Down"     : U"Left";
+U"Right"    : U"Down";
+U"RGui"     : U"Right";
+
+# Bottom-Middle Row
+U"Function7"    : U"Enter";
+U"Right Shift"  : U"RCtrl";
+
+# Top Thumb Cluster
+U"RAlt"     : U"PageUp";
+U"RCtrl"    : U"RGui";
+
+# Bottom Thumb Cluster
+U"PageUp"   : U"PageDown";
+U"PageDown" : None;
