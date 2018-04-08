@@ -7,7 +7,7 @@ KLL = 0.3c;
 Date = 2015-08-21;
 
 # Top Row - Left
-U"Equals" : flashMode();
+U"Delete" : flashMode();
 
 # Top Row - Right
 U"7" : U"Numlock";
