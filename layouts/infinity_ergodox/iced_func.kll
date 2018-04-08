@@ -4,7 +4,7 @@ Author = "HaaTa (Jacob Alexander) 2015";
 KLL = 0.3c;
 
 # Modified Date
-Date = 2015-08-21;
+Date = 2018-04-08;
 
 # Top Row - Left
 U"Esc" : U"F1";
@@ -22,7 +22,8 @@ U"8"         : U"F9";
 U"9"         : U"F10";
 U"0"         : U"F11";
 
-U"Tab" : U"Backtick";
+U"Backslash" : U"Backtick";
+U"Tab" : U"Right Shift" + U"Backtick";
 
 #Home Row Right
 #Special Characters
